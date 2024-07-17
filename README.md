@@ -63,7 +63,14 @@
       - Notification preferences
 
 11. **Contributing**
-    - Information on how others can contribute to the development of the app.
+    Fork the repository.
+Create a new branch:
+git checkout -b feature/your-feature
+Make your changes and commit them:
+git commit -m "Add some feature"
+Push to the branch:
+git push origin feature/your-feature
+Open a pull request.
 
 12. **License**
     - This project is distributed under the MIT License. For more information, please refer to the LICENSE file.
