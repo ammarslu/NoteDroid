@@ -63,14 +63,22 @@
       - Notification preferences
 
 11. **Contributing**
-    Fork the repository.
-Create a new branch:
-git checkout -b feature/your-feature
-Make your changes and commit them:
-git commit -m "Add some feature"
-Push to the branch:
-git push origin feature/your-feature
-Open a pull request.
+   ### Contributing
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature
+   ```
+5. Open a pull request.
 
 12. **License**
     - This project is distributed under the MIT License. For more information, please refer to the LICENSE file.
