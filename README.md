@@ -94,7 +94,8 @@
      git push origin feature/your-feature-name
      ```
    - **Submit a Pull Request:** Go to the original NoteDroid repository and create a pull request.
+   - 
      
-13. **License**
+13. ***License***
     - This project is distributed under the MIT License. For more information, please refer to the LICENSE file.
 
