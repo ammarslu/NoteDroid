@@ -63,19 +63,18 @@
       - Notification preferences
 
 11. **Contributing**
-  ### How to Contribute to NoteDroid
+  # How to Contribute to NoteDroid
+  Are you interested in contributing to the development of NoteDroid? Here’s how you can help:
 
-Are you interested in contributing to the development of NoteDroid? Here’s how you can help:
-
-1. **Feature Suggestions**
+  1. **Feature Suggestions**
    - **Identify Needs:** Think about features that would improve the user experience.
    - **Submit Ideas:** Share your suggestions on our GitHub repository under the "Issues" section.
 
-2. **Bug Reports**
+  2. **Bug Reports**
    - **Identify Bugs:** Notice any bugs or glitches while using the app.
    - **Report Issues:** Describe the bug, including steps to reproduce it, and submit it via our GitHub repository.
 
-3. **Code Contributions**
+  3. **Code Contributions**
    - **Fork the Repository:** Fork the NoteDroid repository on GitHub to your own account.
    - **Clone the Repository:** Clone the forked repository to your local machine using:
      ```bash
@@ -95,6 +94,7 @@ Are you interested in contributing to the development of NoteDroid? Here’s how
      git push origin feature/your-feature-name
      ```
    - **Submit a Pull Request:** Go to the original NoteDroid repository and create a pull request.
+     
 13. **License**
     - This project is distributed under the MIT License. For more information, please refer to the LICENSE file.
 
