@@ -18,10 +18,12 @@ Operating System: Android
 -Development Environment: Android Studio
 
 ## Front/Back End Support
-# Front End
+
+#Front End
 -Language: Java or Kotlin -Tools: XML for layout design 
 
-# Back End -Database: Firebase Realtime Database for storing notes 
+#Back End
+-Database: Firebase Realtime Database for storing notes 
 -Cloud Storage: Google Cloud for scalable data storage 
 -CI/CD: Integration with tools like Jenkins or GitHub Actions
 
