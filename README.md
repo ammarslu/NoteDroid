@@ -75,6 +75,7 @@
 
 3. **Code Contributions**
    - **Fork the Repository:** Fork the NoteDroid repository on GitHub to your own account.
+     
    - **Clone the Repository:** Clone the forked repository to your local machine using:
      ```bash
      git clone https://github.com/your-username/NoteDroid.git
