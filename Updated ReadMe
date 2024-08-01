@@ -1,0 +1,90 @@
+NoteDroid App Project Update
+
+Outline
+Project Name: NoteDroid
+
+Objective:
+
+Develop a simple and intuitive note-taking Android application that allows users to create, edit, and manage their notes efficiently.
+
+Features:
+
+Main Screen:
+
+Display a list of notes with titles and previews.
+Provide a search bar for users to search for notes.
+Include a button to create new notes.
+Note Details:
+
+Allow users to view the full content of a note.
+Provide options to edit or delete the note.
+Create/Edit Note:
+
+Allow users to create a new note or edit an existing one.
+Include fields for the note title and content.
+User Preferences:
+
+Enable users to save and load user preferences such as font size, theme, etc.
+Data Sharing:
+
+Provide options for users to share their notes via other applications.
+Changes Identified
+Previous Version:
+
+Basic UI with note list, search bar, and create note button.
+Note details view and basic create/edit functionality.
+
+Current Version:
+
+Improved UI design with updated visual elements.
+Added menu options for better navigation and user experience.
+Implemented saving and loading user preferences.
+Added data sharing functionality.
+
+Future Updates:
+
+Implement image view to allow users to attach images to their notes.
+Add WebView to display web content within the notes.
+Enhance search functionality with more filters.
+Improve data sharing with more integrated apps.
+
+Version Changelog
+Version 1.0:
+
+Initial UI design with note list, search bar, and create note button.
+Basic functionality to create and view notes.
+Version 1.1:
+
+Updated UI with new color scheme and layout improvements.
+Added menu options for navigation and additional features.
+Implemented saving and loading user preferences.
+Version 1.2:
+
+Added data sharing functionality to share notes via other apps.
+Improved note creation and editing screens with more options.
+Enhanced search functionality with basic filters.
+Version 1.3 (Future):
+
+Implement image view to attach images to notes.
+Add WebView to display web content within notes.
+
+Code Update 
+
+UI Improvements:
+
+Improved the visual design of the note list and search bar.
+Added new buttons and improved layout for better user experience.
+
+Menu Implementation:
+
+Added options and context menus to the app.
+
+User Preferences:
+
+Implemented saving and loading of user preferences such as font size and theme.
+
+Data Sharing:
+
+Added functionality to share notes via other applications.
+
+
